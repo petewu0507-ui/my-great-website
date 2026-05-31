@@ -27,7 +27,7 @@ export default function App() {
 
   const t = {
     zh: {
-      title: '中国合同法律顾问',
+      title: '中国合同法律顾问 Pro',
       subtitle: '基于专业指南的智能法律问答助手',
       placeholder: '输入您的法律问题...',
       send: '发送',
